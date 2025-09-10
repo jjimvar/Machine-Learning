@@ -1,1 +1,1 @@
-Código de práctica del curso: Machine Learning y Data Science: Curso Completo con Python(Udemy)
+EN este directorio encontraras nociones de Machine Learning
